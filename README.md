@@ -26,14 +26,6 @@ Full-stack grocery shopping web application.
 
 `Python` · `Flask` · `SQLite` · `HTML` · `CSS` · `Bootstrap`
 
-## 📊 Contributions
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-</p>
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-akhil-narapureddi-2bb54336a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
