@@ -27,8 +27,18 @@ Full-stack grocery shopping web application.
 `Python` · `Flask` · `SQLite` · `HTML` · `CSS` · `Bootstrap`
 
 ## 📊 Contributions
+## 📊 My Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=narapureddisomasekhar-coder&theme=tokyo-night&hide_border=true)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🤝 Connect With Me
 
