@@ -26,42 +26,13 @@ Full-stack grocery shopping web application.
 
 `Python` · `Flask` · `SQLite` · `HTML` · `CSS` · `Bootstrap`
 
-
 ## 📊 Contributions
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: narapureddisomasekhar-coder
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
+</p>
 
 ## 🤝 Connect With Me
 
