@@ -24,10 +24,12 @@
 - 💻 Building projects
 - 🚀 Growing as a Software Engineer
 
-<h2 align="center">📊 My GitHub Contributions</h2>
+<h1 align="center">
+  🔥 My GitHub Contributions
+</h1>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/narapureddisomasekhar-coder" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narapureddisomasekhar-coder&show_icons=true&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs&theme=github_dark" />
 </p>
 
 ## 🚀 Featured Project
