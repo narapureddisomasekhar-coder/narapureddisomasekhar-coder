@@ -26,13 +26,15 @@ Full-stack grocery shopping web application.
 
 `Python` · `Flask` · `SQLite` · `HTML` · `CSS` · `Bootstrap`
 
+
 ## 📊 Contributions
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/narapureddisomasekhar-coder/narapureddisomasekhar-coder/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
-    width="100%">
+    width="100%"
+  />
 </p>
 
 ## 🤝 Connect With Me
