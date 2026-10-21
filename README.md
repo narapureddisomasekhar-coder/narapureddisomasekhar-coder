@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Praveen Akhil
+<h1 align="center">👋 Hi, I'm Praveen Akhil</h1>
 
 ### 💻 Aspiring SDE | ☕ Java & DSA | 🏎️ BMW Car Enthusiast
 
@@ -17,6 +17,14 @@
 - 🧠 DSA with Java
 - 💻 Building projects
 - 🚀 Growing as a Software Engineer
+
+```html
+<h2 align="center">📊 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/narapureddisomasekhar-coder" alt="GitHub Contribution Calendar" />
+</p>
+```
 
 ## 🚀 Featured Project
 
