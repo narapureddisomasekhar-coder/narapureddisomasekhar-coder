@@ -1,4 +1,10 @@
-<h1 align="center" background-color="yellow">👋 Hi, I'm Praveen Akhil</h1>
+<h1 align="center">
+  <div style="background-color: #FFF4B8; border: 3px solid #252525; padding: 25px; border-radius: 12px;">
+    <span style="color: #222222; font-family: Arial, sans-serif; font-size: 42px;">
+      👋 Hi, I'm Praveen Akhil
+    </span>
+  </div>
+</h1>
 
 ### 💻 Aspiring SDE | ☕ Java & DSA | 🏎️ BMW Car Enthusiast
 
