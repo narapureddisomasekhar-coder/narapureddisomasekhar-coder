@@ -24,10 +24,14 @@
 - 💻 Building projects
 - 🚀 Growing as a Software Engineer
 
-<h2 align="center">📊 My GitHub Contributions</h2>
+## 📊 My GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/narapureddisomasekhar-coder" alt="Praveen Akhil's GitHub Contribution Calendar" width="100%"/>
+  <img
+    src="https://ghchart.rshah.org/0b6623/narapureddisomasekhar-coder"
+    alt="Praveen Akhil's GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ## 🚀 Featured Project
