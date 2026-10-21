@@ -24,12 +24,14 @@
 - 💻 Building projects
 - 🚀 Growing as a Software Engineer
 
-<h1 align="center">
-  🔥 My GitHub Contributions
-</h1>
+## 🔥 My GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narapureddisomasekhar-coder&show_icons=true&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs&theme=github_dark" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=narapureddisomasekhar-coder&show=contributions&hide=stars,commits,prs,issues,contribs&hide_title=true&hide_rank=true&theme=github_dark&card_width=600"
+    alt="My GitHub Contributions"
+    width="100%"
+  />
 </p>
 
 ## 🚀 Featured Project
